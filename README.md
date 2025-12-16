@@ -1,7 +1,9 @@
 Volume Breakout Scanner
 
 Team Members:
+
 Edward Platonov – eplatono@stevens.edu
+
 Ardit Cana – acana@stevens.edu
 
 Course:
@@ -21,3 +23,4 @@ This project is intended as a foundational demonstration of Python engineering c
 Contributions:
 - Edward Platonov; volume breakout scanner, trading simulation logic, analysis workflow
 - Ardit Cana; data, data handling, testing structures, plotting, documentation support
+
